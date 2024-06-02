@@ -29,3 +29,6 @@ replay_pid*
 /.idea/modules.xml
 /.idea/vcs.xml
 /.idea/WikiMove.iml
+**/.idea/
+**/build/
+**/.gradle/
