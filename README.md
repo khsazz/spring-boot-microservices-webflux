@@ -1,7 +1,6 @@
 # spring-boot + microservices + webflux
 A demonstration of Spring Boot + Microservices + Webflux
 
-This Repository develops the sample architecture presented in the `problem-statement.pdf` file
 
 
 
